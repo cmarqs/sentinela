@@ -1,0 +1,32 @@
+{
+    "resumo":
+    [
+        {
+            "tipoMonitor":"server",
+            "statusMonitor":
+            [
+                {"status":"ok", "quantidade": 5},
+                {"status": "warning", "quantidade":1},
+                {"status": "danger", "quantidade": 1}
+            ]
+        },
+        {
+            "tipoMonitor":"http",
+            "statusMonitor":
+            [
+                {"status":"ok", "quantidade": 21},
+                {"status": "warning", "quantidade":0},
+                {"status": "danger", "quantidade": 0}
+            ]
+        },
+        {
+            "tipoMonitor":"service",
+            "statusMonitor":
+            [
+                {"status":"ok", "quantidade": 7},
+                {"status": "warning", "quantidade":0},
+                {"status": "danger", "quantidade": 0}
+            ]
+        }
+    ]
+}
