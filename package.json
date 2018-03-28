@@ -1,7 +1,7 @@
 {
   "name": "vuedash",
   "version": "1.0.0",
-  "description": "Dashboard made by me to study",
+  "description": "A Vue+Bootstrap+Vue-Chart Dashboard to monitoring the office infrasctructure",
   "author": "cpmarx <cleiton.marx@gmail.com>",
   "private": true,
   "scripts": {

@@ -1,6 +1,6 @@
 # vuedash
 
-> Dashboard made by me to study
+> This is just a Vue-Cli + Bootstrap + Vue-Chart app aimed to serve as a (frontend) dashboard for monitoring the office infrastructure.
 
 ## Build Setup
 
